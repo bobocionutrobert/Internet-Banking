@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\bin\Debug\netcoreapp3.1\InternetBanking.exe
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\bin\Debug\netcoreapp3.1\InternetBanking.deps.json
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\bin\Debug\netcoreapp3.1\InternetBanking.runtimeconfig.json
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\bin\Debug\netcoreapp3.1\InternetBanking.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\bin\Debug\netcoreapp3.1\InternetBanking.dll
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\bin\Debug\netcoreapp3.1\InternetBanking.pdb
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.dll
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.pdb
+C:\Users\Asus\Desktop\FullStackC#\Mostenirea\InternetBanking\InternetBanking\obj\Debug\netcoreapp3.1\InternetBanking.genruntimeconfig.cache
